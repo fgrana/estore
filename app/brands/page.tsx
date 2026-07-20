@@ -6,12 +6,12 @@ import "../globals.css";
 export default function brands() {
   return (
     <>
-    <Headers></Headers>
-    <div className="container">
-      <h1>brands</h1>
-      <Component  />
-    </div>
-    <Footer></Footer>
+      <Headers></Headers>
+      <div className="container">
+        <h1>brands</h1>
+        <Component />
+      </div>
+      <Footer></Footer>
     </>
   );
 }
